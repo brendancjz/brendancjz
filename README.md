@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [Bo Lui](www.t.me/bo_lui_bot), a personal finance tracking bot on Telegram!
+🔭 I’m currently working on [Bo Lui](https://www.t.me/bo_lui_bot/), a personal finance tracking bot on Telegram!
 <!--
 **brendancjz/brendancjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
