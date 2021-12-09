@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [Bo Lui](https://www.t.me/bo_lui_bot/), a personal finance tracking bot on Telegram!
+🔭 I’m currently working on [Bo Lui](https://www.t.me/bo_lui_bot/), a personal finance tracking bot on Telegram.
+🔭 Ebsides that, I'm working on building up my [Personal Website](https://www.brendanchia.com/).
+
+📫 How to reach me: E-mail me at _brendancjz@gmail.com_!
+⚡ Fun fact: I have been playing Badminton since I was 7 years old!
 <!--
 **brendancjz/brendancjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
