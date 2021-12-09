@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [Bo Lui](https://www.t.me/bo_lui_bot/), a personal finance tracking bot on Telegram.
-
-🔭 Ebsides that, I'm working on building up my [Personal Website](https://www.brendanchia.com/).
+🔭 I’m currently working on [Bo Lui](https://www.t.me/bo_lui_bot/), a personal finance tracking bot on Telegram, and building up my [Personal Website](https://www.brendanchia.com/).
 
 📫 How to reach me: E-mail me at _brendancjz@gmail.com_!
 
