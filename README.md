@@ -6,6 +6,7 @@
 
 ⚡ Fun fact: I have been playing Badminton since I was 7 years old!
 
+https://github-readme-stats.vercel.app/api/wakatime?username=RussellDash332&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats
 <!--
 **brendancjz/brendancjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
