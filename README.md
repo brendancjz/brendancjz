@@ -5,6 +5,8 @@
 📫 How to reach me: E-mail me at _brendancjz@gmail.com_!
 
 ⚡ Fun fact: I have been playing Badminton since I was 7 years old!
+
+[![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendancjz)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **brendancjz/brendancjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
