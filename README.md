@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=brendancjz)
 
 🔭 I’m currently working on [Bo Lui](https://www.t.me/bo_lui_bot/), a personal finance tracking bot on Telegram, and building up my [Personal Website](https://www.brendanchia.com/).
 
