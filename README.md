@@ -5,8 +5,7 @@
 📫 How to reach me: E-mail me at _brendancjz@gmail.com_!
 
 ⚡ Fun fact: I have been playing Badminton since I was 7 years old!
-
-![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=RussellDash332&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats)
+[![brendancjz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brendancjz&layout=compact&theme=react&title_color=dd58c1&custom_title=My Wakatime Stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **brendancjz/brendancjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
