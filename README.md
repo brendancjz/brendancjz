@@ -1,6 +1,6 @@
 ### Hi there 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=brendancjz)
 
-🔭 I’m currently working on [Bo Lui](https://www.t.me/bo_lui_bot/), a personal finance tracking bot on Telegram, and building up my [Personal Website](https://www.brendanchia.com/).
+🔭 I’m currently working at GovTech LifeSG Team and building up my [Personal Website](https://www.brendanchia.com/).
 
 📫 How to reach me: E-mail me at _brendancjz@gmail.com_!
 
