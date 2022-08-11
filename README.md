@@ -6,7 +6,7 @@
 
 ⚡ Fun fact: I have been playing Badminton since I was 7 years old!
 
-[![Brendan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=brendanchia&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
+[![Brendan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=brendanchia&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 <!--
 **brendancjz/brendancjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
