@@ -6,7 +6,7 @@
 
 ⚡ Fun fact: I have been playing Badminton since I was 7 years old!
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/brendanchia)](https://leetcode.com/JacobLinCool)
+
 <!--
 **brendancjz/brendancjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
