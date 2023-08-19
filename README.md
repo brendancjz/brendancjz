@@ -1,6 +1,6 @@
 ### Hi there 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=brendancjz)
 
-🔭 I’m currently interning at Goldman Sachs as a Summer Analyst.
+🔭 I’m in my senior year in NUS Information Systems.
 
 📫 How to reach me: E-mail me at _brendancjz@gmail.com_!
 
